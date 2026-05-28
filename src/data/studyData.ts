@@ -111,7 +111,67 @@ export const topics: Topic[] = [
         ]
       },
       {
-        id: 'competency-units',
+        id: 'competency-units',{
+id: 'market-memory',
+title: '🧠 Memory Tricks — Market Opportunities',
+content: [
+{
+type: 'exam_tip',
+title: 'How to Remember Supply vs Demand',
+text: 'Use this image: SUPPLY goes WITH price (both go up together, like a seller who produces more when price is high). DEMAND goes AGAINST price (when price goes up, buyers buy LESS — they resist). Think: "Sellers love high prices. Buyers hate high prices."'
+},
+{
+type: 'note',
+text: '🔑 MNEMONIC for Value-Adding Activities: "Can Sara Pack Products To Consolidate?" = Cleaning → Sorting → Packaging → Processing → Transporting → Consolidation. First letters: C-S-P-P-T-C'
+},
+{
+type: 'list',
+title: '🔍 How to Answer Buyer Type Questions in Exams:',
+items: [
+'TRADER = buys AND sells (middleman who moves products)',
+'TRADER AGENT = connects buyers and sellers but does NOT own the product (like a broker)',
+'INSTITUTIONAL BUYER = hospitals, schools, hotels — think BIG organizations buying in BULK',
+'WHOLESALER = sells to RETAILERS (not to end consumers)',
+'RETAILER = sells directly to YOU (the final customer)',
+'CONSUMER = the last person — buys for personal use, does NOT resell',
+'TRICK: Ask yourself — does this person RESELL? If NO = Consumer. If YES = everyone else'
+]
+},
+{
+type: 'note',
+text: '🔑 MNEMONIC for 3 Buyer Types by Spending: "TSA" = Tightwads → Spendthrifts → Average Spenders. Think of TSA like airport security — they check everything including your wallet!'
+},
+{
+type: 'exam_tip',
+title: 'How to Remember Market Segmentation: DPGB',
+text: 'MNEMONIC: "Don't Play Games Badly" = Demographic → Psychographic → Geographic → Behavioral. Demographic = WHO they are (age, gender). Psychographic = WHAT they believe (values, lifestyle). Geographic = WHERE they are. Behavioral = HOW they buy (frequency, loyalty).'
+},
+{
+type: 'list',
+title: '📝 4Ps vs 4Cs — Quick Memory Trick:',
+items: [
+'4Ps = PRODUCER thinks: Product, Price, Place, Promotion',
+'4Cs = CONSUMER thinks: Customer Value, Cost, Convenience, Communication',
+'MEMORY TRICK: Each P matches a C — Product↔Customer Value, Price↔Cost, Place↔Convenience, Promotion↔Communication',
+'Think of it as: the same thing seen from two different sides of the market'
+]
+},
+{
+type: 'note',
+text: '💡 SMART OBJECTIVES MEMORY TRICK: "Students Must Always Review Topics" = Specific → Measurable → Achievable → Relevant → Time-bound. If an exam question gives you a goal, check it against each letter — if it fails even ONE, it is NOT a SMART objective.'
+},
+{
+type: 'list',
+title: '🌍 Market Types — Easy to Remember:',
+items: [
+'LOCAL = your barangay, town, province — think: your neighbors buy from you',
+'NATIONAL = whole Philippines — think: you sell on Lazada or Shopee',
+'INTERNATIONAL = other countries — think: you export to Japan or the US',
+'MEMORY TRICK: L-N-I = "Levels Nearby to International" — gets bigger each step'
+]
+}
+]
+},
         title: 'Competency Units',
         content: [
           {
