@@ -148,6 +148,48 @@ export const topics: Topic[] = [
             ]
           }
         ]
+      },
+      {
+        id: 'intro-memory',
+        title: '🧠 Memory Tricks — Introduction',
+        content: [
+        {
+        type: 'exam_tip',
+        title: 'How to Remember: Agro-Entrepreneur vs Traditional Farmer',
+        text: 'Think of it this way: A traditional farmer GROWS. An agro-entrepreneur GROWS and SELLS SMART. The keyword difference is INNOVATION + BUSINESS MINDSET. In the exam, if a question asks what separates an agro-entrepreneur from a regular farmer — always pick the answer that mentions business, market, or profit orientation.'
+        },
+        {
+        type: 'note',
+        text: '🔑 MNEMONIC for the 4 Core Competencies: "A Farmer Handles Markets" = Assess market opportunities → Farm production plan → Handle finances → Market produce. First letter of each action: A-F-H-M. Remember: "A Farmer Handles Markets"'
+        },
+        {
+        type: 'list',
+        title: '⭐ Most Likely Exam Questions on This Topic:',
+        items: [
+        'What is the primary goal of agroentrepreneurship? → SUSTAINABLE PRACTICES (not just profit)',
+        'What are the two job roles after NC II? → Marketing Coordinator and Production Coordinator',
+        'What makes an agro-entrepreneur different? → Innovation, market orientation, business management',
+        'How many core competencies are there? → FOUR (4)'
+        ]
+        },
+        {
+        type: 'note',
+        text: '💡 TRICK QUESTION ALERT: The exam often tries to trick you by saying the goal is "maximizing profit." The correct answer is always SUSTAINABLE PRACTICES. Profit is part of it — but not the PRIMARY goal.'
+        },
+        {
+        type: 'list',
+        title: '📝 Remember the Competency Codes Using This Pattern:',
+        items: [
+        'All CORE competencies start with AFF243 — think "AFF" as "Agriculture Farm Foundation"',
+        'AFF243301 = Assess (3-0-1 = first core unit)',
+        'AFF243302 = Establish (3-0-2 = second core unit)',
+        'AFF243303 = Handle (3-0-3 = third core unit)',
+        'AFF243304 = Market (3-0-4 = fourth core unit)',
+        'TRICK: The last digit (1,2,3,4) tells you the ORDER of the core units'
+        ]
+        }
+        ]
+        },
       }
     ]
   },
@@ -340,7 +382,68 @@ export const topics: Topic[] = [
             text: 'Marketing objectives should be SMART — Specific, Measurable, Achievable, Relevant, and Time-bound.'
           }
         ]
-      }
+      },
+      {
+id: 'market-memory',
+title: '🧠 Memory Tricks — Market Opportunities',
+content: [
+{
+type: 'exam_tip',
+title: 'How to Remember Supply vs Demand',
+text: 'Use this image: SUPPLY goes WITH price (both go up together, like a seller who produces more when price is high). DEMAND goes AGAINST price (when price goes up, buyers buy LESS — they resist). Think: "Sellers love high prices. Buyers hate high prices."'
+},
+{
+type: 'note',
+text: '🔑 MNEMONIC for Value-Adding Activities: "Can Sara Pack Products To Consolidate?" = Cleaning → Sorting → Packaging → Processing → Transporting → Consolidation. First letters: C-S-P-P-T-C'
+},
+{
+type: 'list',
+title: '🔍 How to Answer Buyer Type Questions in Exams:',
+items: [
+'TRADER = buys AND sells (middleman who moves products)',
+'TRADER AGENT = connects buyers and sellers but does NOT own the product (like a broker)',
+'INSTITUTIONAL BUYER = hospitals, schools, hotels — think BIG organizations buying in BULK',
+'WHOLESALER = sells to RETAILERS (not to end consumers)',
+'RETAILER = sells directly to YOU (the final customer)',
+'CONSUMER = the last person — buys for personal use, does NOT resell',
+'TRICK: Ask yourself — does this person RESELL? If NO = Consumer. If YES = everyone else'
+]
+},
+{
+type: 'note',
+text: '🔑 MNEMONIC for 3 Buyer Types by Spending: "TSA" = Tightwads → Spendthrifts → Average Spenders. Think of TSA like airport security — they check everything including your wallet!'
+},
+{
+type: 'exam_tip',
+title: 'How to Remember Market Segmentation: DPGB',
+text: 'MNEMONIC: "Don't Play Games Badly" = Demographic → Psychographic → Geographic → Behavioral. Demographic = WHO they are (age, gender). Psychographic = WHAT they believe (values, lifestyle). Geographic = WHERE they are. Behavioral = HOW they buy (frequency, loyalty).'
+},
+{
+type: 'list',
+title: '📝 4Ps vs 4Cs — Quick Memory Trick:',
+items: [
+'4Ps = PRODUCER thinks: Product, Price, Place, Promotion',
+'4Cs = CONSUMER thinks: Customer Value, Cost, Convenience, Communication',
+'MEMORY TRICK: Each P matches a C — Product↔Customer Value, Price↔Cost, Place↔Convenience, Promotion↔Communication',
+'Think of it as: the same thing seen from two different sides of the market'
+]
+},
+{
+type: 'note',
+text: '💡 SMART OBJECTIVES MEMORY TRICK: "Students Must Always Review Topics" = Specific → Measurable → Achievable → Relevant → Time-bound. If an exam question gives you a goal, check it against each letter — if it fails even ONE, it is NOT a SMART objective.'
+},
+{
+type: 'list',
+title: '🌍 Market Types — Easy to Remember:',
+items: [
+'LOCAL = your barangay, town, province — think: your neighbors buy from you',
+'NATIONAL = whole Philippines — think: you sell on Lazada or Shopee',
+'INTERNATIONAL = other countries — think: you export to Japan or the US',
+'MEMORY TRICK: L-N-I = "Levels Nearby to International" — gets bigger each step'
+]
+}
+]
+},
     ]
   },
   {
@@ -521,6 +624,64 @@ export const topics: Topic[] = [
             definition: 'Considers ONLY items affected by adoption of some changes. Helps determine which alternative is better.'
           }
         ]
+      },
+      {
+        id: 'production-memory',
+        title: '🧠 Memory Tricks — Farm Production Plan',
+        content: [
+        {
+        type: 'exam_tip',
+        title: 'How to Remember Farm Assessment Data (12 Items)',
+        text: 'MNEMONIC: "FALLSWERP RRP" = Farm details → Access (road) → Land suitability → Labor → Soils → Water → Equipment → Records → Power → Relations (neighbor) → Reception (phone) → Protected areas. Or simply remember: you are checking if the farm is SAFE, USABLE, and CONNECTED.'
+        },
+        {
+        type: 'note',
+        text: '🔑 MNEMONIC for Production Activities: "Please Fertilize Plants By Irrigation, Weeding Harvests Post-harvest" = Planting → Fertilizer → Pesticides → Bio-security → Irrigation → Weeding → Harvesting → Post-harvesting. First letters: P-F-P-B-I-W-H-P'
+        },
+        {
+        type: 'list',
+        title: '📝 Complete vs Partial Budget — Never Confuse These Again:',
+        items: [
+        'COMPLETE Budget = looks at the ENTIRE farm — like a full body checkup',
+        'PARTIAL Budget = looks at ONLY the CHANGED parts — like checking only one body part',
+        'MEMORY TRICK: "Complete = Everything. Partial = Part of it."',
+        'EXAM TRICK: If the question says "all expenses and returns" → Complete Budget',
+        'If the question says "only items affected by a change" → Partial Budget'
+        ]
+        },
+        {
+        type: 'exam_tip',
+        title: 'How to Remember Risk Management Options',
+        text: 'MNEMONIC: "Don't Expect Life Insurance, New Technology Immediately" = Diversification → Excess Capacity → Lease Arrangement → Insurance → New Technologies → Information. Remember: Insurance is the MAJOR tool specifically for LAWSUITS. This is a common exam question!'
+        },
+        {
+        type: 'list',
+        title: '💡 Tips for Record Keeping Questions in Exams:',
+        items: [
+        'The famous quote to remember: "Running a business without records is like running a clock without hands"',
+        '4 Tips = KIRO = Keep it simple → Immediate recording → Record accurately → Organize',
+        'TRICK: The exam may ask WHY we keep records — answer must mention DECISION-MAKING',
+        'Record keeping is described as FUNDAMENTAL — not optional, not extra — FUNDAMENTAL'
+        ]
+        },
+        {
+        type: 'note',
+        text: '💡 SUPPLIER SELECTION MEMORY TRICK: "Pretty Please Deliver Good Reputation Products" = Price → Payment terms → Delivery → Good relationship → Reputation → Products/service quality. First letters: P-P-D-G-R-P'
+        },
+        {
+        type: 'list',
+        title: '🌾 Farm Planning Steps — Remember as a Cooking Recipe:',
+        items: [
+        'Step 1: REVIEW Goals = decide what dish you want to cook',
+        'Step 2: INVENTORY Resources = check what ingredients you have',
+        'Step 3: IDENTIFY Alternatives = plan what you can cook with those ingredients',
+        'Step 4: ESTIMATE Gross Margin = calculate if it will be profitable',
+        'Step 5: PREPARE Farm Budget = write your complete shopping list and cost',
+        'FORMULA to remember: Gross Margin = Total Revenue MINUS Variable Costs'
+        ]
+        }
+        ]
+        },
       }
     ]
   },
@@ -676,6 +837,65 @@ export const topics: Topic[] = [
             definition: 'Refund given to members based on their patronage of the cooperative.'
           }
         ]
+      },
+      {
+        id: 'finance-memory',
+        title: '🧠 Memory Tricks — Handle Finances',
+        content: [
+        {
+        type: 'exam_tip',
+        title: 'The Most Important Finance Formulas to Memorize',
+        text: 'Write these on your hand if you must: (1) Gross Profit = Sales MINUS COGS. (2) Gross Profit Margin = Gross Profit DIVIDED BY Sales × 100. (3) Net Income = Total Sales MINUS Cost of Production. (4) Net Loss = Total Expenses MINUS Total Income (when expenses are bigger). (5) Simple Interest = Principal × Rate × Time.'
+        },
+        {
+        type: 'list',
+        title: '📐 Step-by-Step: How to Solve ANY Finance Problem in 3 Steps:',
+        items: [
+        'Step 1: IDENTIFY what is being asked (Gross Profit? Net Income? Interest?)',
+        'Step 2: FIND the formula for that term',
+        'Step 3: PLUG IN the numbers and compute',
+        'TRICK: Always convert percentages to decimals first — 6% = 0.06, 30% = 0.30',
+        'TRICK: If the result is NEGATIVE, that means it is a LOSS not an income'
+        ]
+        },
+        {
+        type: 'note',
+        text: '🔑 MNEMONIC for 6 Types of Budget: "Money Offers Cash For Labor Supplies" = Master → Operating → Cash → Financial → Labor → Static. In exams, match the description to the type — Cash Budget = money in and out for a specific period. Operating Budget = projected revenue and expenses like a P&L.'
+        },
+        {
+        type: 'list',
+        title: '🏦 How to Remember Financial Institutions:',
+        items: [
+        'CENTRAL BANK = the boss of all banks — think: Bangko Sentral ng Pilipinas (BSP)',
+        'RETAIL/COMMERCIAL BANK = the regular banks you see (BDO, BPI, Landbank)',
+        'CREDIT UNION = owned by MEMBERS, for MEMBERS — like a cooperative for money',
+        'INSURANCE COMPANY = protects you from FINANCIAL LOSS — not a bank but a protector',
+        'TRICK: In exams, Credit Union is often confused with cooperative — both are member-owned!'
+        ]
+        },
+        {
+        type: 'exam_tip',
+        title: 'Cooperative Membership Requirements — EASY 4-Point Checklist',
+        text: 'Remember as "APPS": Approved application → Pre-membership education → Paid share capital and membership fee → has a land (owned or leased). In the exam, if a question asks which is NOT a requirement, look for anything outside these 4 items.'
+        },
+        {
+        type: 'list',
+        title: '💰 Investment vs Saving — How to Answer Exam Questions:',
+        items: [
+        'ACQUIRING ASSETS = buying land, buildings, machinery — increases PRODUCTIVITY',
+        'EXPANDING/DIVERSIFYING = polyculture, new crop varieties — reduces RISK',
+        'SAVING = setting aside money — most conservative option',
+        'TRICK: If exam asks about INCREASING YIELD → answer is Acquiring Assets or Expanding',
+        'DIVIDEND = share of EARNINGS given to members/shareholders',
+        'PATRONAGE REFUND = money back based on how much you BOUGHT from the cooperative'
+        ]
+        },
+        {
+        type: 'note',
+        text: '💡 LOAN TERMS MEMORY TRICK: "I Became Lazy Getting Paid" = Interest Rate → Bank Charges → Loan Repayment Period → Grace Period. Grace Period = extra time AFTER due date with NO penalty — think of it as a teacher giving you extra days to submit without deduction.'
+        }
+        ]
+        },
       }
     ]
   },
@@ -792,6 +1012,62 @@ export const topics: Topic[] = [
             items: ['Quality', 'Price and Life Cycle Costs', 'Continuity of Supply', 'Perceived Risk', 'Personal Likes and Dislikes', 'Implications for Marketers']
           }
         ]
+      },
+      {
+        id: 'marketing-produce-memory',
+        title: '🧠 Memory Tricks — Market Produce',
+        content: [
+        {
+        type: 'exam_tip',
+        title: 'How to Remember the 3 Types of Manufacturers',
+        text: 'MNEMONIC: "MTS MTO MTA = Make To Sell, Make To Order, Make To Assemble." Think of a carinderia: MTS = they already cooked rice before you arrived. MTO = they cook your meal only after you order. MTA = they prepared all ingredients, just need to put them together when you order.'
+        },
+        {
+        type: 'list',
+        title: '💡 Price Monitoring Strategies — How to Remember All 7:',
+        items: [
+        'MNEMONIC: "Some People Can Pay Less Psychological Value" = Skimming → Penetration → Competitive → Premium → Loss Leader → Psychological → Value',
+        'SKIMMING = set HIGH price first, lower later (skim the cream off the top)',
+        'PENETRATION = set LOW price to enter the market fast (penetrate/enter)',
+        'COMPETITIVE = match your competitor's price (be competitive)',
+        'PREMIUM = always HIGH price to signal HIGH quality (luxury feel)',
+        'LOSS LEADER = sell ONE item at a loss to attract customers to buy OTHER items',
+        'PSYCHOLOGICAL = price it ₱99 instead of ₱100 — tricks the brain',
+        'VALUE = price based on how much VALUE the customer FEELS they are getting'
+        ]
+        },
+        {
+        type: 'note',
+        text: '🔑 MNEMONIC for 3 Marketing Arrangements: "CIA" = Contract Farming → Individual Marketing → Association/Cooperative (Group) Marketing. Contract = forward agreement with a buyer. Individual = you sell on your own (Facebook, online). Group = you sell together through a COOP.'
+        },
+        {
+        type: 'list',
+        title: '📝 6 Segmental Choice Criteria — How to Remember:',
+        items: [
+        'MNEMONIC: "Quality Costs Continuous Perceived Personal Implications" = Quality → Price & Life Cycle Costs → Continuity of Supply → Perceived Risk → Personal Likes → Implications for Marketers',
+        'TRICK: These are criteria COMPANIES use when BUYING from SUPPLIERS — not when selling to customers',
+        'Most common exam question: "Which criteria considers whether supply will be consistent?" → Continuity of Supply',
+        'PERCEIVED RISK = how risky the buyer THINKS it is — not the actual risk'
+        ]
+        },
+        {
+        type: 'exam_tip',
+        title: 'BDSPs — Business Development Service Providers',
+        text: 'Remember what BDSPs provide using "TWO TPC": Trucking → Warehousing → Others (Training) → Training → Pre/post-harvest facilities → Cold storage → Packaging. BDSPs help your BUSINESS SUCCEED by providing services you cannot do alone. In the exam, if asked what a BDSP does — it SUPPORTS the business, it does not own or manage it.'
+        },
+        {
+        type: 'list',
+        title: '🛒 Steps in Preparing Produce for Selling — QHP:',
+        items: [
+        '"QHP" = Quality Control → Handling → Packaging and Labelling',
+        'QUALITY CONTROL = check that products meet standards before selling',
+        'PROPER HANDLING = how you move and carry products without damage',
+        'PACKAGING AND LABELLING = wrap it, label it, make it look sellable',
+        'TRICK: The order always goes from CHECKING → HANDLING → PRESENTING'
+        ]
+        }
+        ]
+        },
       }
     ]
   },
@@ -915,6 +1191,61 @@ export const topics: Topic[] = [
             text: 'Regular equipment maintenance reduces the risk of injury and unexpected downtimes. Defective tools can be identified through visual inspection checking for dullness, sharpness, and dismantled parts.'
           }
         ]
+      },
+      {
+        id: 'safety-memory',
+        title: '🧠 Memory Tricks — Safety & Workplace',
+        content: [
+        {
+        type: 'exam_tip',
+        title: 'PPE Items — How to Remember All of Them',
+        text: 'MNEMONIC: "My Gloves Guard Her Face, Even Aprons" = Mask → Gloves → Goggles → Hair net → Face shield → Ear muffs → Apron/gown. In the exam, if asked what PPE is — it is Personal Protective Equipment. If asked for examples, run through this list.'
+        },
+        {
+        type: 'list',
+        title: '⚠️ 4 Types of Workplace Hazards — PBCE:',
+        items: [
+        'MNEMONIC: "People Buy Chemical Ergonomic" = Physical → Biological → Chemical → Ergonomic',
+        'PHYSICAL = things you can feel — noise, heat, radiation, pressure',
+        'BIOLOGICAL = living things — bacteria, viruses, fungi, insects',
+        'CHEMICAL = substances — dust, fumes, smoke, vapors, gases',
+        'ERGONOMIC = body posture and movement — overexertion, awkward positions, fatigue',
+        'TRICK: If the hazard is a LIVING organism → Biological. If it is a SUBSTANCE → Chemical'
+        ]
+        },
+        {
+        type: 'note',
+        text: '🔑 MNEMONIC for Covey's 7 Habits: "Be Bright, First Think, Seek Synergy, Sharpen" = Be proactive → Begin with the end in mind → First things first → Think win-win → Seek to understand then be understood → Synergize → Sharpen the saw. The first 3 are about YOU (independence). Habits 4-6 are about OTHERS (teamwork). Habit 7 is about GROWTH.'
+        },
+        {
+        type: 'list',
+        title: '📝 Self-Regulation Components — SMMW:',
+        items: [
+        'MNEMONIC: "Students Must Monitor Willpower" = Standards → Motivation → Monitoring → Willpower',
+        'STANDARDS = knowing what the goal or rule is',
+        'MOTIVATION = having the desire to follow through',
+        'MONITORING = observing your own behavior and progress',
+        'WILLPOWER = the mental strength to keep going',
+        'TRICK: Think of self-regulation as SELF-MANAGEMENT. All 4 components work together.'
+        ]
+        },
+        {
+        type: 'exam_tip',
+        title: 'Emergency Response Steps — EIDC',
+        text: 'MNEMONIC: "Everyone Is Deeply Careful" = Evacuation → Isolation → Decontamination → Calling emergency personnel. In the exam, these are called CONTINGENCY MEASURES during emergencies. The order matters: first GET OUT (Evacuation), then SEPARATE (Isolation), then CLEAN (Decontamination), then CALL for help.'
+        },
+        {
+        type: 'list',
+        title: '🔧 Counterproductive Work Behaviors — Quick Memory:',
+        items: [
+        'These are behaviors that HARM the workplace — remember "LABTTEC"',
+        'Lateness → Absenteeism → Bullying → Theft → Taking long breaks → Excessive chatting → Cheating (fraud)',
+        'TRICK: In the exam, if asked what a professional should AVOID → pick any item from this list',
+        'Self-regulation is what PREVENTS counterproductive behaviors'
+        ]
+        }
+        ]
+        },
       }
     ]
   },
